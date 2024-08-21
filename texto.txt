@@ -3,3 +3,8 @@ PROYECTO 1
 Hola mundo
 Este es el primer proyecto de GLobalAcademy 2024 curso Fullstack developer
 ---------------------------------------------------------------------------
+
+
+PUNTO 2
+---------------------------------------------------------------------------
+A otra cosa mariposa, sigo modificando para que salga first commit
