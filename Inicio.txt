@@ -1,0 +1,10 @@
+Este es el inicio de nuestro programa
+algoritmos y procesos
+MENU inicio
+1- Crear imagenes y sectores
+2- Colocar botones de direccion a distintas partes de la aplicacion
+3- Realizar formularios de inicio de sesion
+4- Crear carteles de alerta si no llega a coloar bien las credenciales de usuario y contraseña
+
+
+---------------------------------------------------------------------------
