@@ -1,0 +1,5 @@
+PROYECTO 1
+---------------------------------------------------------------------------
+Hola mundo
+Este es el primer proyecto de GLobalAcademy 2024 curso Fullstack developer
+---------------------------------------------------------------------------
